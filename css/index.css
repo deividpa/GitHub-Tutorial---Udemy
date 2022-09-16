@@ -6,3 +6,10 @@
 body {
   background-color: aliceblue;
 }
+
+.mainText1 {
+  background-color: #f80;
+  color: blue;
+  opacity: 0.3;
+  padding: 5px;
+}
