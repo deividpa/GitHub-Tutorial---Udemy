@@ -6,3 +6,8 @@
 body {
   background-color: aliceblue;
 }
+
+.mainText {
+  color: #f80;
+  font: 18px helvetica, georgia 700;
+}
