@@ -13,3 +13,7 @@ body {
   opacity: 0.3;
   padding: 5px;
 }
+
+img {
+  max-width: 80%;
+}
